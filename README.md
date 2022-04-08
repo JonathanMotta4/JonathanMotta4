@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá, meu nome é Jonathan Motta
 
-<!--
-**JonathanMotta4/JonathanMotta4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de Ciências da Computação na Uniritter, comecei estudando C++ por conta própria a pouco mais de um ano e decidi aprender outras tecnologias.
+Atualmente estou estudando HTML5, CSS3, Javascript e Bootstrap.  
+Estou desempregado no momento, então estudo boa parte do tempo para conseguir meu primeiro emprego.  
+Planejo aprender Python futuramente e algum tipo de Banco de dados que ainda não decidi qual para aprender um pouco sobre Back-end.  
 
-Here are some ideas to get you started:
+## Estou disponível para propostas de trabalho, de preferência com tecnologias Web, apenas estou lembrando que ainda sou iniciante, então posso acabar precisando de ajuda em vários pontos.
+Mas estou disposto a aprender o que for preciso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo:
+*[Linkedin](https://www.linkedin.com/in/jonathan-motta-87104a217/)  
+*[Instagram](https://www.instagram.com/jonathan.motta44/)  
+
