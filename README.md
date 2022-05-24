@@ -1,7 +1,7 @@
 # Olá, meu nome é Jonathan Motta
 
 Sou um estudante de Ciências da Computação na Uniritter, comecei estudando C++ por conta própria a pouco mais de um ano e decidi aprender outras tecnologias.
-Atualmente estou estudando HTML5, CSS3, Javascript e Bootstrap.  
+Atualmente estou estudando HTML5, CSS3, e Javascript.  
 Estou desempregado no momento, então estudo boa parte do tempo para conseguir meu primeiro emprego.  
 Planejo aprender Python futuramente e algum tipo de Banco de dados que ainda não decidi qual para aprender um pouco sobre Back-end.  
 
