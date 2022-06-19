@@ -1,4 +1,4 @@
-## Olá, eu sou Jonathan Motta, estudante de Ciência da Computação na Uniritter
+## Olá, eu me chamo Jonathan.
 <div align="center">
   <a href="https://github.com/JonathanMotta4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMotta4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
