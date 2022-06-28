@@ -1,5 +1,5 @@
 ## Olá, eu me chamo Jonathan.
-<p>Sou um estudante de Ciências da Computação,atualmente no terceiro semestre, estou começando a estudar React.js e assim que aprender a base, estudar um pouco de Node.js.</p>
+<p>Sou um estudante de Ciências da Computação,atualmente no terceiro semestre. Estou começando a estudar React.js e assim que aprender a base, vou estudar um pouco de Node.js.</p>
 <div align="center">
   <a href="https://github.com/JonathanMotta4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMotta4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
