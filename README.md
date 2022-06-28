@@ -1,4 +1,5 @@
 ## Olá, eu me chamo Jonathan.
+<p>Sou um estudante de Ciências da Computação,atualmente no terceiro semestre, estou começando a estudar React.js e assim que aprender a base, estudar um pouco de Node.js.</p>
 <div align="center">
   <a href="https://github.com/JonathanMotta4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMotta4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,6 +11,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <!--<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />-->
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
@@ -24,11 +27,5 @@
  
  
 </div>
-  <p>Sou um estudante de Ciências da Computação na Uniritter, comecei estudando C++ por conta própria a pouco mais de um ano e decidi aprender outras tecnologias.
-Atualmente estou estudando HTML5, CSS3, e Javascript.  
-Estou desempregado no momento, então estudo boa parte do tempo para conseguir meu primeiro emprego.  
-Planejo aprender Python futuramente e algum tipo de Banco de dados que ainda não decidi qual para aprender um pouco sobre Back-end.  
-
-## Estou disponível para propostas de trabalho, de preferência com tecnologias Web, apenas estou lembrando que ainda sou iniciante, então posso acabar precisando de ajuda em vários pontos.
-Mas estou disposto a aprender o que for preciso
-</p>
+  
+  
