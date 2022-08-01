@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Jonathan.
-<p>Sou um estudante de Ciências da Computação,atualmente no terceiro semestre. Estou começando a estudar React.js e assim que aprender a base, vou estudar um pouco de Node.js.<br>
-Conheço as bases de HTML5, CSS3 e Javascript.</p>
+#### Sou um estudante de Ciências da Computação,atualmente no terceiro semestre. Estou começando a estudar React.js e assim que aprender a base, vou estudar um pouco de Node.js.
+Conheço as bases de HTML5, CSS3 e Javascript.
 
 <div align="center">
   <a href="https://github.com/JonathanMotta4">
