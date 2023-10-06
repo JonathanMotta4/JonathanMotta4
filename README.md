@@ -1,5 +1,6 @@
-## Olá, eu me chamo Jonathan.
-#### Sou um estudante de Ciências da computação, buscando aprender novas tecnologias😊.
+## Olá, eu me chamo Jonathan.  
+
+### Sou um estudante de Ciências da computação, buscando aprender novas tecnologias😊.
 
 
 ### Tecnologias que estou estudando:
@@ -14,7 +15,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats-jonathan-mottas-projects.vercel.app/api?username=JonathanMotta4&theme=omni&show_icons=true)](https://github.com/JonathanMotta4/github-readme-stats)
 [![Top Langs](https://github-readme-stats-jonathan-mottas-projects.vercel.app/api/top-langs/?username=JonathanMotta4&theme=omni&show_icons=true&layout=compact&hide=c,html)](https://github.com/anuraghazra/github-readme-stats)
 
-  ##
+  
  
 <div> 
   <h2>Entre em contato comigo:</h2>
