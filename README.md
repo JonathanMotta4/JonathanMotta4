@@ -14,6 +14,7 @@
  
 [![Anurag's GitHub stats](https://github-readme-stats-jonathan-mottas-projects.vercel.app/api?username=JonathanMotta4&theme=omni&show_icons=true)](https://github.com/JonathanMotta4/github-readme-stats)
 [![Top Langs](https://github-readme-stats-jonathan-mottas-projects.vercel.app/api/top-langs/?username=JonathanMotta4&theme=omni&show_icons=true&layout=compact&hide=c,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JonathanMotta4&hide=c,html&theme=omni&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
  
