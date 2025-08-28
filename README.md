@@ -22,10 +22,11 @@
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JonathanMotta4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </span>
+<!-- 
 <span>
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanMotta4&theme=catppuccin_mocha&hide_border=false" />
 </span>
-
+-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=JonathanMotta4&theme=catppuccin_mocha&layout=compact&langs_count=4&card_width=320)
 
