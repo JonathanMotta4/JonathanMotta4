@@ -20,7 +20,7 @@
 # 📊 GitHub Status:
 
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JonathanMotta4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats-rouge-kappa-40.vercel.app/api?username=JonathanMotta4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </span>
 <!-- 
 <span>
@@ -28,7 +28,7 @@
 </span>
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=JonathanMotta4&theme=catppuccin_mocha&layout=compact&langs_count=4&card_width=320)
+![](https://github-readme-stats-rouge-kappa-40.vercel.app/api/top-langs?username=JonathanMotta4&theme=catppuccin_mocha&layout=compact&langs_count=4&card_width=320)
 
 
 ## 🏆 GitHub Trophies
